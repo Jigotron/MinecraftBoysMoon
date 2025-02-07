@@ -1,13 +1,14 @@
 {
     "name": "DaBoysMinecraftMoon",
-    "version_number": "1.0",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Jigotron/MinecraftBoysMoon/tree/main",
     "description": "A Minecraft Moon I created of a world I made with Da Boys.",
     "dependencies": [
-        "MaxWasUnavailable-LethalModDataLib-1.2.2"
-	    "Evaisa-FixPluginTypesSerialization-1.1.2"
-	    "BepInEx-BepInExPack-5.4.2100"
-	    "IAmBatby-LethalLevelLoader-1.4.8"
-	    "Evaisa-HookGenPatcher-0.0.5"
+        "MaxWasUnavailable-LethalModDataLib-1.2.2",
+	    "Evaisa-FixPluginTypesSerialization-1.1.2",
+	    "BepInEx-BepInExPack-5.4.2100",
+	    "IAmBatby-LethalLevelLoader-1.4.8",
+	    "Evaisa-HookGenPatcher-0.0.5",
 	    "Evaisa-LethalLib-0.16.2"
     ]
 }
